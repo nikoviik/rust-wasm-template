@@ -49,7 +49,6 @@ This template is built using the following libraries and tools:
 * [Webpack](https://webpack.js.org/): A module bundler used to bundle JavaScript and Wasm code.
 * [@wasm-tool/wasm-pack-plugin](https://github.com/wasm-tool/wasm-pack-plugin): A Webpack plugin for building and optimizing Wasm code.
 * [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin): A Webpack plugin for generating HTML files.
-* [text-encoding](https://www.npmjs.com/package/text-encoding): A JavaScript library for encoding and decoding text.
 * [webpack-dev-server](https://webpack.js.org/configuration/dev-server/): A development server for Webpack.
 
 Feel free to consult their respective documentation for more information on how to use them effectively.
